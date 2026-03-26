@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Anika 👋
 
-<!--
-**anikajairath/anikajairath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights, understand business performance, and support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📊 Skills & Areas of Work
+
+* Data Cleaning & Exploratory Data Analysis (EDA)
+* SQL Queries (Joins, Aggregations, Subqueries)
+* Dashboarding & Visualization (Power BI, Excel)
+* Business Insights & KPI Analysis
+
+---
+
+# 🧠 Exposure To
+
+* Customer Segmentation (RFM Analysis)
+* Clustering (K-Means)
+* Forecasting (ARIMA)
+* Basic Machine Learning Concepts
+
+---
+
+# 💻 Projects
+
+* 📦 **Advanced E-Commerce Analytics**
+  Customer segmentation, forecasting, and recommendation system using Python, SQL, and Power BI
+
+* 📊 **E-Commerce Sales Performance Analysis**
+  Business insights on ₹41M+ dataset including revenue, profit, and regional performance
+
+* 🏦 **Banking Transaction Analysis**
+  Customer behavior and financial insights using SQL, Python, and dashboards
+
+* 💻 **Task Manager Web Application (Java)**
+  Full-stack web app with authentication, CRUD operations, and MVC architecture
+
+---
+
+# 🚀 Currently
+
+* Preparing for Data Analyst roles
+* Strengthening SQL and problem-solving skills
+* Practicing real-world business case questions
+
+---
+
+# 📫 Connect with me
+
+* LinkedIn: www.linkedin.com/in/anika-jairath-data-analyst
