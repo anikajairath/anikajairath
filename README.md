@@ -12,16 +12,7 @@ I enjoy working with data to uncover insights, understand business performance, 
 * SQL Queries (Joins, Aggregations, Subqueries)
 * Dashboarding & Visualization (Power BI, Excel)
 * Business Insights & KPI Analysis
-
----
-
-# 🧠 Exposure To
-
-* Customer Segmentation (RFM Analysis)
-* Clustering (K-Means)
-* Forecasting (ARIMA)
-* Basic Machine Learning Concepts
-
+  
 ---
 
 # 💻 Projects
