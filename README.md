@@ -12,6 +12,8 @@ I enjoy working with data to uncover insights, understand business performance, 
 * SQL Queries (Joins, Aggregations, Subqueries)
 * Dashboarding & Visualization (Power BI, Excel)
 * Business Insights & KPI Analysis
+* SSMS and MySQL
+* MS Excel
   
 ---
 
