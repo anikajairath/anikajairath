@@ -63,6 +63,9 @@ Performed data cleaning, transformation, and feature engineering using Excel fun
 Visualized region-wise and product-wise performance trends.
 Provided insights for improving profitability and optimizing business strategy. 
 
+💼 HR Operations & Payroll Analytics Dashboard
+
+Analyzed 150,000+ workforce, payroll, expense claim, and travel records using Python and Power BI. Performed data cleaning, feature engineering, and dataset integration to evaluate payroll expenditure, workforce distribution, reimbursement patterns, and travel spending trends. Built interactive dashboards with DAX measures to monitor payroll costs, claim approval rates, employee distribution, and operational expenses. Identified key cost drivers and generated insights to support HR and financial decision-making.
 
 ---
 
