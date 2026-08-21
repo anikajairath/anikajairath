@@ -19,6 +19,12 @@ I enjoy working with data to uncover insights, understand business performance, 
 
 # 💻 Projects
 
+🧠 Consumer Behavioral Analytics
+
+Analyzed consumer purchase behavior to identify behavioral patterns, customer segments, and factors influencing purchase decisions. Used Python and SQL for data cleaning, exploratory analysis, and behavioral analysis, and developed a Power BI dashboard to communicate key findings. Evaluated behavioral interventions including scarcity messaging, trending badges, free shipping, countdown timers, recommendation labels, and influencer campaigns to understand their impact on conversion. 
+
+Extended the project with an AI-powered RAG assistant using Sentence Transformers, cosine similarity, Gemini, and Streamlit. Built a project-specific knowledge base that retrieves relevant analytical findings and provides grounded natural-language answers to user questions.
+
 📦 Advanced E-Commerce Analytics
 
 Built an end-to-end data analytics pipeline using Python, SQL, and Power BI on 1000+ records.
