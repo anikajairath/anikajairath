@@ -9,7 +9,7 @@ I enjoy working with data to uncover insights, understand business performance, 
 # 📊 Skills & Areas of Work
 
 * Data Cleaning & Exploratory Data Analysis (EDA)
-* SQL Queries (Joins, Aggregations, Subqueries, Window Functions, Stored Procedures)
+* SQL Queries (Joins, Aggregations, Subqueries, Window Functions, CTEs, Stored Procedures)
 * Dashboarding & Visualization (Power BI, Excel)
 * Business Insights & KPI Analysis
 * SSMS and MySQL
