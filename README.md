@@ -19,7 +19,7 @@ I enjoy working with data to uncover insights, understand business performance, 
 
 # 💻 Projects
 
-🧠 Consumer Behavioral Analytics
+🧠 Behavioral Analytics Study of Consumer Purchase Decisions
 
 Analyzed consumer purchase behavior to identify behavioral patterns, customer segments, and factors influencing purchase decisions. Used Python and SQL for data cleaning, exploratory analysis, and behavioral analysis, and developed a Power BI dashboard to communicate key findings. Evaluated behavioral interventions including scarcity messaging, trending badges, free shipping, countdown timers, recommendation labels, and influencer campaigns to understand their impact on conversion. 
 
