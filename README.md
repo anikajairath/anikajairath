@@ -25,7 +25,7 @@ Analyzed consumer purchase behavior to identify behavioral patterns, customer se
 
 Extended the project with an AI-powered RAG assistant using Sentence Transformers, cosine similarity, Gemini, and Streamlit. Built a project-specific knowledge base that retrieves relevant analytical findings and provides grounded natural-language answers to user questions.
 
-📦 Advanced E-Commerce Analytics
+📦 Ecommerce Customer Sales Analytics
 
 Built an end-to-end data analytics pipeline using Python, SQL, and Power BI on 1000+ records.
 Performed customer segmentation using RFM analysis and K-Means clustering.
@@ -33,7 +33,7 @@ Developed a forecasting model (ARIMA) to predict revenue trends.
 Implemented product recommendation system using Apriori algorithm.
 Derived insights to improve customer retention and revenue optimization.
 
-📊 E-Commerce Sales Performance Analysis
+📊 Ecommerce Sales Performance Analysis
 
 Analyzed 1200+ transaction records generating ₹41M+ revenue to evaluate business performance.
 Performed data cleaning in Python and SQL-based analysis for product, region, and customer insights.
