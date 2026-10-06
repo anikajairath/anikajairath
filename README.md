@@ -19,6 +19,12 @@ I enjoy working with data to uncover insights, understand business performance, 
 
 # 💻 Projects
 
+🧭 BLS CareerCompass: Labor Market & Career Analysis
+
+Analyzed U.S. labor-market data from the Bureau of Labor Statistics (BLS) to explore employment, wages, location quotients, projected growth, and occupational openings across national, state, metropolitan, and nonmetropolitan areas. Used Python, SQL, exploratory analysis, feature engineering, and machine learning to identify labor-market patterns and develop a percentile-based CareerCompass Score for comparing career locations.
+
+Extended the project into an interactive AI-powered career recommendation system using semantic retrieval, a BLS Occupational Outlook Handbook knowledge base, Gemini, and Streamlit. CareerCompass retrieves relevant occupations, compares states and metropolitan areas using labor-market indicators, and generates natural-language career insights grounded in the underlying BLS analysis.
+
 🧠 Behavioral Analytics: Consumer Purchase Decisions
 
 Analyzed consumer purchase behavior to identify behavioral patterns, customer segments, and factors influencing purchase decisions. Used Python and SQL for data cleaning, exploratory analysis, and behavioral analysis, and developed a Power BI dashboard to communicate key findings. Evaluated behavioral interventions including scarcity messaging, trending badges, free shipping, countdown timers, recommendation labels, and influencer campaigns to understand their impact on conversion. 
